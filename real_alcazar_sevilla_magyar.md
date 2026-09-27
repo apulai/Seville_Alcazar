@@ -8,24 +8,18 @@
 
 ---
 
-## 1. oldal
-
-![Az eredeti PDF 1. oldala](images/oldal-01.png)
- – Címoldal
+## 1. oldal – Címoldal
 
 # A sevillai Real Alcázar
 
 **Tanulói munkafüzet**  
 **Felnőttoktatás**
 
-*[Az eredeti címoldal illusztrációja]*
+![Eredeti címoldal](images/oldal-01.jpg)
 
 ---
 
-## 2. oldal
-
-![Az eredeti PDF 2. oldala](images/oldal-02.png)
- – A kiadvány adatai
+## 2. oldal – A kiadvány adatai
 
 ### Szerzők
 
@@ -67,10 +61,7 @@ A szerzők köszönetet mondanak a sevillai Real Alcázar Patronátusának az eg
 
 ---
 
-## 3. oldal
-
-![Az eredeti PDF 3. oldala](images/oldal-03.png)
- – A látogatás előkészítése
+## 3. oldal – A látogatás előkészítése
 
 A sevillai Real Alcázar műemlékegyüttese a város egyik legjelentősebb épületegyüttese, mind művészeti értéke, mind több mint ezeréves története miatt. Ezért tanulmányozása és meglátogatása pedagógiai szempontból is különösen érdekes.
 
@@ -213,13 +204,15 @@ Használd a következő névsort, és keresd ki a szükséges információkat a 
 - Constanza
 - Beatriz
 
-*[Az eredeti családfa ábrája helye]*
+![Eredeti családfa-ábra](images/oldal-06.jpg)
 
 ---
 
 # 7. oldal – Történelmi háttér
 
 ## Történelmi áttekintés
+![Az eredeti történelmi oldal](images/oldal-07.jpg)
+
 
 A **8. században** az Arábiából és Észak-Afrikából érkező muszlimok meghódították Andalúziát.
 
@@ -269,7 +262,7 @@ Az eredeti kiadvány térképe azt mutatja be, hogy az Ibériai-félsziget milye
 
 **Feladat:** egészítsd ki a térképet a hiányzó királyságok nevével.
 
-*[Az eredeti térkép helye]*
+![Eredeti történelmi térkép](images/oldal-08.jpg)
 
 ### A látogatás útvonala
 
@@ -471,7 +464,7 @@ A következő helyiségbe, **V. Károly termébe** lépünk. A 16. században ez
 
 ....................................................................
 
-*[Az eredeti mennyezetet ábrázoló kép helye]*
+![Eredeti mennyezetábra](images/oldal-12.jpg)
 
 ---
 
@@ -501,7 +494,7 @@ A trónterem két oldalán két előszoba található. Frízeiket **háborús é
 
 Néhány ilyen jelenet alapul szolgálhat egy történet elmeséléséhez.
 
-*[Az eredeti díszítőelemeket bemutató kép helye]*
+![Eredeti díszítőelemek](images/oldal-13.jpg)
 
 ---
 
@@ -533,7 +526,7 @@ A trónon ülő király az univerzum urának érezhette magát.
 
 Ez a terem, akárcsak az egész palota, gazdagságával és pompájával nyűgöz le. Ezt értékes anyagok – például márvány és arany – használatával, valamint közönségesebb anyagok nemesítésével érték el.
 
-*[Az eredeti teremről készült kép helye]*
+![Eredeti terem](images/oldal-14.jpg)
 
 ---
 
@@ -549,7 +542,7 @@ Az eredeti ábra az alábbi különböző korszakokból származó elemeket jel�
 - **Gipszdíszítések** – 14. század
 - **Csempedíszítés** – 14. század
 
-*[Az eredeti rétegeket bemutató ábra helye]*
+![A Követek termének rétegei](images/oldal-15.jpg)
 
 ### Feladat
 
@@ -568,7 +561,7 @@ A **Patio de las Muñecas** a palota magánterületének központja. Ezért bens
 
 Figyeld meg az oszlopokat és oszlopfőket: ezek **újrahasznosított anyagok**, amelyek régebbi épületekből származnak.
 
-*[Az eredeti fénykép helye]*
+![Eredeti fénykép](images/oldal-16.jpg)
 
 ## 6. A királyné hálószobája
 
@@ -625,13 +618,13 @@ Az alábbi rajzok első pillantásra egyformának tűnnek, de ha alaposan megné
 
 **Rajzonként 2 eltérés található.**
 
-*[Az eredeti „8 hiba” játék két képpárja helye]*
+![Az eredeti 8 hiba feladat ábrái](images/oldal-18.jpg)
 
 ---
 
 # 19. oldal – Képes oldal
 
-*[Az eredeti kiadvány illusztrációs oldala. A rendelkezésre álló OCR-szöveg ezen az oldalon nem tartalmazott kiolvasható szöveget.]*
+![Eredeti illusztrációs oldal](images/oldal-19.jpg)
 
 ---
 
@@ -639,7 +632,7 @@ Az alábbi rajzok első pillantásra egyformának tűnnek, de ha alaposan megné
 
 ## Helyszínrajz
 
-*[Az eredeti kiadvány helyszínrajza / térképe. A térkép grafikai elemei Markdownban nem reprodukálhatók teljes pontossággal.]*
+![Eredeti helyszínrajz](images/oldal-20.jpg)
 
 ---
 
